@@ -1,4 +1,6 @@
-# This is an assignment 
+Write a file called say_hello.py
 
-Please do the following
+include the following variables
+
+
 
